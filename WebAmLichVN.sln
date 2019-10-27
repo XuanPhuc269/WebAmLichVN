@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAmLichVN", "WebAmLichVN\WebAmLichVN.csproj", "{AF9D42A2-944B-4646-8C29-58B6159984FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9D42A2-944B-4646-8C29-58B6159984FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9D42A2-944B-4646-8C29-58B6159984FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9D42A2-944B-4646-8C29-58B6159984FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9D42A2-944B-4646-8C29-58B6159984FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE3D8E9-A647-4C16-9A4B-EA9B3B9F1B0D}
+	EndGlobalSection
+EndGlobal
